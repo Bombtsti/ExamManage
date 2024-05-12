@@ -1,0 +1,1 @@
+finalScore += this.topic[4][this.index].score
